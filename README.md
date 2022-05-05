@@ -1,3 +1,4 @@
 # rock-paper-scissor
 My version of the game Rock Paper Scissor
-1. rock paper scissor - player vs computer : version where user can input and play with computer
+1. User vs. Computer Rock-paper-scissors: In this version, you can play against the computer.
+2. Computer vs. Computer Rock-paper-scissors: In this version, you can watch the computer fight each other.
